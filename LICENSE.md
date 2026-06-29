@@ -1,4 +1,4 @@
-# 
+# Updated A web AI object detection extensions. Featuring neural-networks and natural-language-processing — optimized for maximum performance.
 
 
 
